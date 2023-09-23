@@ -1,7 +1,6 @@
 """Median calculator."""
 """ENTER YOUR SOLUTION HERE!"""
 
-
 # Sorted values test
 # Input: 1,2,3,4,5
 # Expected output: 3.0
